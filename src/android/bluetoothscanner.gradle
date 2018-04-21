@@ -2,7 +2,6 @@ repositories {
  flatDir {
       dirs 'libs'
    }
-
 }
 dependencies {
   compile(name : 'Rfid.AsciiProtocol-1.4.5-release',ext:'aar') {
