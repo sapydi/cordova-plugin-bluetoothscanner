@@ -1,4 +1,4 @@
-package cordova-plugin-bluetoothscanner;
+package cordova.plugin.bluetoothscanner;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;

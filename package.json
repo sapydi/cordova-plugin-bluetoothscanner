@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sumit-mishra/cordova-plugin-bluetoothscanner.git"
+    "url": "https://github.com/sapydi/cordova-plugin-bluetoothscanner.git"
   },
   "keywords": [
     "ecosystem:cordova",
